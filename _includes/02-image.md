@@ -1,1 +1,1 @@
-![Google](https://www.google.com)
+![An ugly cat](https://octodex.github.com/images/yaktocat.png)
